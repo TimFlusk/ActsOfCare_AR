@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 6d4f56ec4dd8fe187aa3f66a29821107
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/TrackingSolution/Protobuf/Tasks/Vision/GestureRecognizer/Proto/HandGestureRecognizerGraphOptions.cs
+  uploadId: 863146

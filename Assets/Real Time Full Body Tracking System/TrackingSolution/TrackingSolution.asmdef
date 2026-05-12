@@ -1,0 +1,19 @@
+{
+    "name": "TrackerPro-2.0",
+    "rootNamespace": "",
+    "references": [
+        "GUID:495bcb9eb97014bc281eefcdf8dc05d5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Google.Protobuf.dll",
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

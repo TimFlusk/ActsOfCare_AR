@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e0cb33a3b4fc54f949aeafe6d2f12faa
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/Demo Scenes/Face Landmark
+    Data.unity
+  uploadId: 863146

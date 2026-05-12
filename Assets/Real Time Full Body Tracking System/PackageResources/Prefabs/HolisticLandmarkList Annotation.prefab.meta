@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf645f1af5f90246e87c443ab2154263
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/PackageResources/Prefabs/HolisticLandmarkList
+    Annotation.prefab
+  uploadId: 863146

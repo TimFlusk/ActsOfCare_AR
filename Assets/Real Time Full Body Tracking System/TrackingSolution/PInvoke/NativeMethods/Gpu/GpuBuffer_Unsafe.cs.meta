@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fccfad8d2e49e5e6db0b9c0ee0fac50f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/TrackingSolution/PInvoke/NativeMethods/Gpu/GpuBuffer_Unsafe.cs
+  uploadId: 863146

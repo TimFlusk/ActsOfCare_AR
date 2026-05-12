@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 17035769cc9614188a18e6c8e6565eb0
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/Demo Scenes/Hand Landmark
+    Data.unity
+  uploadId: 863146

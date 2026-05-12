@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1cf05e630aa9cd6f38522c83264115ee
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/StreamingAssets/face_landmark_with_attention.bytes
+  uploadId: 863146

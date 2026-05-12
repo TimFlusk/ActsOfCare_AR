@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f6a1c3d6248f1377d8c283bb109efce6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/PackageResources/Prefabs/MultiPoseLandmarkListAnnotation.prefab
+  uploadId: 863146

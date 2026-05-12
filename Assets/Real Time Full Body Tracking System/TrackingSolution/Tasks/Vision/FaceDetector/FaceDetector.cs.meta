@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3e2f6292275f21a23896392fc3147fe6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/TrackingSolution/Tasks/Vision/FaceDetector/FaceDetector.cs
+  uploadId: 863146

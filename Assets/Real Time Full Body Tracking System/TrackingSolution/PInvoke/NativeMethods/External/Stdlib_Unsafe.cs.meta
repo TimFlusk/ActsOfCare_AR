@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8145b1567167432dda87798d70f47019
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/TrackingSolution/PInvoke/NativeMethods/External/Stdlib_Unsafe.cs
+  uploadId: 863146

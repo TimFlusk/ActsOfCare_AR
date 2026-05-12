@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce6db8ad8200781fc9201c21237ce23b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/PackageResources/Prefabs/Connection
+    Annotation.prefab
+  uploadId: 863146

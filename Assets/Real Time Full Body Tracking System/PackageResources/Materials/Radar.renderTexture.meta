@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5da80a5efc5910a21b9460daafddfb45
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/PackageResources/Materials/Radar.renderTexture
+  uploadId: 863146

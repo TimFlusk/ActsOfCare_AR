@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8ea5c71542478ca97ac06e52e10a127e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/StreamingAssets/ssdlite_object_detection_labelmap.txt
+  uploadId: 863146

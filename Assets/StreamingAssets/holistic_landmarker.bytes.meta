@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f62bbb6da0e10ca46bd5884677255faa
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/StreamingAssets/holistic_landmarker.bytes
+  uploadId: 863146

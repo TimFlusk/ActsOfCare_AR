@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 07e051ff708e3431da7199ad04e74609
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/Settings/Prefabs/Settings.prefab
+  uploadId: 863146

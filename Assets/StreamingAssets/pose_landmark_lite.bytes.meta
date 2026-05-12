@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0a76dfea202fa3254ba68439997f3a5e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/StreamingAssets/pose_landmark_lite.bytes
+  uploadId: 863146

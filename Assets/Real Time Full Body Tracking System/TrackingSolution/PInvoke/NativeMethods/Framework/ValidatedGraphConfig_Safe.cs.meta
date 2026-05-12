@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c73850dfbc5a5d0bc9c02651552efc2c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/TrackingSolution/PInvoke/NativeMethods/Framework/ValidatedGraphConfig_Safe.cs
+  uploadId: 863146

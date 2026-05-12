@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 74dba47d02d9202ab9b3f5e5640cfee7
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/TrackingSolution/Tasks/Components/Processors/ClassifierOptions.cs
+  uploadId: 863146

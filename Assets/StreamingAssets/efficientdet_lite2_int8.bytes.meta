@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 57fabd56472cca03fbf6429480993a07
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/StreamingAssets/efficientdet_lite2_int8.bytes
+  uploadId: 863146

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 39bac9dd52c31ae7aa01a7383bc44853
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _landmarkListAnnotation: {instanceID: 0}
+  - _connectionListAnnotation: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/TrackingSolution/Unity/Annotation/PoseLandmarkListAnnotation.cs
+  uploadId: 863146

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f9675dd4c198f4a9eb46574f401e6769
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/Scripts/FullBody/FullBodyLandmarkData.cs
+  uploadId: 863146

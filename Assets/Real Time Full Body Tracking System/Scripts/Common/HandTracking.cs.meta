@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 5f61ef94e3d374047a6bc26528f2b4eb
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/Scripts/Common/HandTracking.cs
+  uploadId: 863146

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7e437594b1f0bc2bfb36773bf65f9b5c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/TrackingSolution/Protobuf/Gpu/GlScalerCalculator.cs
+  uploadId: 863146

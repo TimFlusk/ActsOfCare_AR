@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5838e83559205ed6b9bdd94fa57e9a18
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/StreamingAssets/face_landmarker_v2_with_blendshapes.bytes
+  uploadId: 863146

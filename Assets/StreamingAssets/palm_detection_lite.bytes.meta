@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dc5368b59ebdc0638a873af1f2959457
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/StreamingAssets/palm_detection_lite.bytes
+  uploadId: 863146

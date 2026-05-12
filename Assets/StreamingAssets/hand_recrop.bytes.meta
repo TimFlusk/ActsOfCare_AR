@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abf39997153d3bc48b9af20bb8d2c75a
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/StreamingAssets/hand_recrop.bytes
+  uploadId: 863146

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd50999c161e69345953a2cb517dd339
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/PackageResources/Prefabs/Point
+    Annotation.prefab
+  uploadId: 863146

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 94802ed857ae0da9f8acbae261909318
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/StreamingAssets/gesture_recognizer.bytes
+  uploadId: 863146

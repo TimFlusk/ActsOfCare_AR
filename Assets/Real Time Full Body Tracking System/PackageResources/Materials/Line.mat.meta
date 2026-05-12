@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 207b29ccc237efe2f841a58fbf9e5478
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/PackageResources/Materials/Line.mat
+  uploadId: 863146

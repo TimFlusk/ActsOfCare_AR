@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 16074ce928b0558829296ab0d9ccadf3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/PackageResources/Prefabs/FaceLandmarkList
+    Annotation.prefab
+  uploadId: 863146

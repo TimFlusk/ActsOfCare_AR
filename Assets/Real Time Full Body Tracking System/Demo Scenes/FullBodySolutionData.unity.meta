@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d9f800b51508e4b86b9c2a7a93dcb48b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/Demo Scenes/FullBodySolutionData.unity
+  uploadId: 863146

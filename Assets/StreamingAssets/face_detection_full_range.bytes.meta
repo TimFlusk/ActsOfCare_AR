@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e77bccec954d4a4a8aa3c1a6bb94d15
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/StreamingAssets/face_detection_full_range.bytes
+  uploadId: 863146

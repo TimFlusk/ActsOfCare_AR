@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cddb543397c686650ba852193f4a166d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/TrackingSolution/Protobuf/Tasks/Vision/PoseDetector/Proto/PoseDetectorGraphOptions.cs
+  uploadId: 863146

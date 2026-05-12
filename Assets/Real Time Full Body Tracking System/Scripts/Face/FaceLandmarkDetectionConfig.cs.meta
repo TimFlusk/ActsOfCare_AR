@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: b96f532c42adfa2c2b108e5b17b581ad
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/Scripts/Face/FaceLandmarkDetectionConfig.cs
+  uploadId: 863146

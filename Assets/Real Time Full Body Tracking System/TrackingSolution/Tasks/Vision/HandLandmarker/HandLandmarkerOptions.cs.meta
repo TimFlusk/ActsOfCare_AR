@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8e5019ddbbd2dfeb7957da909db1a2b5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/TrackingSolution/Tasks/Vision/HandLandmarker/HandLandmarkerOptions.cs
+  uploadId: 863146

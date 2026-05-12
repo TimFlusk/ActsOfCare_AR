@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8eaa695afee89c8eea9241f8a5ab9645
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/PackageResources/Graphs/holistic_gpu.txt
+  uploadId: 863146

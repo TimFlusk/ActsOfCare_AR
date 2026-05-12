@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 0291d8c31db3e42279748b27139805a2
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/Scripts/Hand/CoreHandLandmarkRunner.cs
+  uploadId: 863146

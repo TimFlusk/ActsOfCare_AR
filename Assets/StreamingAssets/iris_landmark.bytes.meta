@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 71b173c4b3503de4a8c9875972d880a4
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/StreamingAssets/iris_landmark.bytes
+  uploadId: 863146

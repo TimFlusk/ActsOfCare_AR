@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c1d2a4e49c9854650b3fc3514529f882
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/Scripts/Common/FaceTracking.cs
+  uploadId: 863146

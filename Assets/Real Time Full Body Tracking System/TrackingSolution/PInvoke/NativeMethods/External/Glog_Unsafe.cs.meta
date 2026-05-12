@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5746b8714205e5f4c9b283abb157f283
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/TrackingSolution/PInvoke/NativeMethods/External/Glog_Unsafe.cs
+  uploadId: 863146

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 417bb930807ba51e9bfcc5d0e24ef3ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/TrackingSolution/Unity/Annotation/MultiFaceLandmarkListAnnotationController.cs
+  uploadId: 863146

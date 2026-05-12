@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e603bb8cf64f25e9d8b2364f09784689
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/StreamingAssets/ssd_mobilenet_v2_float16.bytes
+  uploadId: 863146

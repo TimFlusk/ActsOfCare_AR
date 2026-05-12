@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 24d349d9c78db0f3d94d4657029f4c5e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/PackageResources/Prefabs/Mask
+    Annotation.prefab
+  uploadId: 863146

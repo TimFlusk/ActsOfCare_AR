@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 1663d4d6a7ce17fdbad3dcb3e667ee85
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _landmarkListAnnotation: {instanceID: 0}
+  - _circleAnnotation: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/TrackingSolution/Unity/Annotation/IrisLandmarkListAnnotation.cs
+  uploadId: 863146

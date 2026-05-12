@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ca5d56c926737c2929c102575e703f4a
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/StreamingAssets/handedness.txt
+  uploadId: 863146

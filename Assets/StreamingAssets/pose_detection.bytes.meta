@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 26d78e7112fc7808b9d14fc20bb9500f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/StreamingAssets/pose_detection.bytes
+  uploadId: 863146

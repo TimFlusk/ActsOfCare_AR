@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: a079d8e951093401e8e5dc4df61b0673
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/TrackingSolution/InferenceMode.cs
+  uploadId: 863146

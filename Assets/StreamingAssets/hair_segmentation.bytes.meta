@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0a4c697151131b35db0748e319aed581
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/StreamingAssets/hair_segmentation.bytes
+  uploadId: 863146

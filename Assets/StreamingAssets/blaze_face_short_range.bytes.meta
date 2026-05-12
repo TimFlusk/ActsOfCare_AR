@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fdfebe6026114fa01969b02a8846f91a
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/StreamingAssets/blaze_face_short_range.bytes
+  uploadId: 863146

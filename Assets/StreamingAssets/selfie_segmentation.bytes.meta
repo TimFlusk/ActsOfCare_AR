@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 137f92ecbad3e5ed5b8d39a5717113e2
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/StreamingAssets/selfie_segmentation.bytes
+  uploadId: 863146

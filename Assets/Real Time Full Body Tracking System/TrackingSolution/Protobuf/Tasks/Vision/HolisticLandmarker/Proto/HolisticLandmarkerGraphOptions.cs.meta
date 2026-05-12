@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ec0e4e6211e80743b9e5ff0121803b9c
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/TrackingSolution/Protobuf/Tasks/Vision/HolisticLandmarker/Proto/HolisticLandmarkerGraphOptions.cs
+  uploadId: 863146

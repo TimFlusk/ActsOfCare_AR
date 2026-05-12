@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 391c66bb10883ff52acbde8b6f39b0ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Real Time Full Body Tracking System/TrackingSolution/Unity/Annotation/MultiPoseLandmarkListAnnotation.cs
+  uploadId: 863146
