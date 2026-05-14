@@ -1,5 +1,12 @@
 fileFormatVersion: 2
 guid: 0e44f8471c53b14499215632d239cb0a
+AssetOrigin:
+  serializedVersion: 1
+  productId: 350552
+  packageName: Real-Time Full Body Tracking System
+  packageVersion: 1.0.4
+  assetPath: Assets/Plugins/mediapipe_c.dll
+  uploadId: 863146
 PluginImporter:
   externalObjects: {}
   serializedVersion: 3
@@ -14,6 +21,8 @@ PluginImporter:
     Android:
       enabled: 0
       settings:
+        AndroidLibraryDependee: UnityLibrary
+        AndroidSharedLibraryType: Executable
         CPU: ARMv7
     Any:
       enabled: 0
@@ -22,12 +31,12 @@ PluginImporter:
         Exclude Editor: 0
         Exclude Linux64: 0
         Exclude OSXUniversal: 0
-        Exclude Win: 0
+        Exclude Win: 1
         Exclude Win64: 0
     Editor:
       enabled: 1
       settings:
-        CPU: AnyCPU
+        CPU: x86_64
         DefaultValueInitialized: true
         OS: Windows
     Linux64:
@@ -39,7 +48,7 @@ PluginImporter:
       settings:
         CPU: x86_64
     Win:
-      enabled: 1
+      enabled: 0
       settings:
         CPU: None
     Win64:
@@ -49,10 +58,3 @@ PluginImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 350552
-  packageName: Real-Time Full Body Tracking System
-  packageVersion: 1.0.4
-  assetPath: Assets/Plugins/mediapipe_c.dll
-  uploadId: 863146
