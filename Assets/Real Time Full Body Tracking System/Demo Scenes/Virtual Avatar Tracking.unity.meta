@@ -1,15 +1,7 @@
 fileFormatVersion: 2
-guid: 8f1a3616da4cf413ca448270b3fa4e67
+guid: 06907582ab5d48a4d86b9b4b50961a66
 DefaultImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 350552
-  packageName: Real-Time Full Body Tracking System
-  packageVersion: 1.0.4
-  assetPath: Assets/Real Time Full Body Tracking System/Demo Scenes/Virtual Avatar
-    Tracking.unity
-  uploadId: 863146
