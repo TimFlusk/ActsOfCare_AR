@@ -38,7 +38,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Angry:
-        m_Texture: {fileID: 2800000, guid: 8a45b30277e4e4bf0a2104b9870d433b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 14fa4d6ce782d4b4f9e608334121e34d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
@@ -66,7 +66,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Happy:
-        m_Texture: {fileID: 2800000, guid: df3b17ab68da00343a77bebb0c295407, type: 3}
+        m_Texture: {fileID: 2800000, guid: fdbe4cc4651cffa46b2a112b35857339, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:

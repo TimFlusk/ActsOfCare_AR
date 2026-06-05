@@ -38,7 +38,7 @@ public class EmotionTracking : MonoBehaviour
         }
         else if (BonePosY < CompareBoneSadPosY)
         {
-            _emotion = -1; // Sad
+            _emotion = 2; // Sad
         }
 
         this.GetComponent<Renderer>().material.SetFloat("_Emotion", _emotion);
