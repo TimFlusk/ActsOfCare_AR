@@ -377,6 +377,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7529853677617601183, guid: 5c0fd3e8b218d43faaac075871de8bac, type: 3}
   m_PrefabInstance: {fileID: 4799310778022142028}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &496289727 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -2436824249250455644, guid: 19c82b7a98641404689de2324c1f20c0, type: 3}
+  m_PrefabInstance: {fileID: 592891310}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &531285562 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4110032624672070646, guid: 5c0fd3e8b218d43faaac075871de8bac, type: 3}
@@ -443,7 +448,7 @@ PrefabInstance:
     - target: {fileID: -3710798779585938083, guid: 19c82b7a98641404689de2324c1f20c0, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 6427172251945a24dab1d72dc48c34dd, type: 2}
+      objectReference: {fileID: 2100000, guid: 96de861517f62be4db4c4b7c1a154e6a, type: 2}
     - target: {fileID: 919132149155446097, guid: 19c82b7a98641404689de2324c1f20c0, type: 3}
       propertyPath: m_Name
       value: Superhero
@@ -472,6 +477,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 19c82b7a98641404689de2324c1f20c0, type: 3}
       insertIndex: -1
       addedObject: {fileID: 384871138}
+    - targetCorrespondingSourceObject: {fileID: 8001203165920506837, guid: 19c82b7a98641404689de2324c1f20c0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1918245910}
   m_SourcePrefab: {fileID: 100100000, guid: 19c82b7a98641404689de2324c1f20c0, type: 3}
 --- !u!1 &638479256
 GameObject:
@@ -1510,11 +1518,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: cb2e63c54240bed4fa9c0060e174fd59, type: 3}
       propertyPath: m_Name
-      value: HumanPaper
+      value: SuperheroPaper
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: cb2e63c54240bed4fa9c0060e174fd59, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5328002725800767059, guid: cb2e63c54240bed4fa9c0060e174fd59, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -1571,6 +1579,16 @@ Transform:
 Transform:
   m_CorrespondingSourceObject: {fileID: 7310685568569048522, guid: 5c0fd3e8b218d43faaac075871de8bac, type: 3}
   m_PrefabInstance: {fileID: 4799310778022142028}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1710462266 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -1374690850363546965, guid: 19c82b7a98641404689de2324c1f20c0, type: 3}
+  m_PrefabInstance: {fileID: 592891310}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1865773595 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8789837472761571952, guid: 19c82b7a98641404689de2324c1f20c0, type: 3}
+  m_PrefabInstance: {fileID: 592891310}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1875552810 stripped
 GameObject:
@@ -1697,6 +1715,26 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!1 &1918245908 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8001203165920506837, guid: 19c82b7a98641404689de2324c1f20c0, type: 3}
+  m_PrefabInstance: {fileID: 592891310}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1918245910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1918245908}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53e1201bd44b6004c8be6d880279144a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EmotionTracking
+  _trackBone: {fileID: 1865773595}
+  _compareHappyBone: {fileID: 496289727}
+  _compareSadBone: {fileID: 1710462266}
 --- !u!4 &1954293523 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1791532817887411408, guid: 5c0fd3e8b218d43faaac075871de8bac, type: 3}
