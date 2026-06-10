@@ -16,6 +16,11 @@ namespace TrackerPro
         private Transform headBone;
         private Transform neckBone;
         private Transform chestBone;
+
+        //public int _emotion = 0;
+        //private Renderer rend;
+
+    
         void Start()
         {
 
@@ -24,6 +29,8 @@ namespace TrackerPro
             neckBone = avatar.GetBoneTransform(HumanBodyBones.Neck);
             chestBone = avatar.GetBoneTransform(HumanBodyBones.Chest);
             faceRenderer = avatar.GetComponentInChildren<SkinnedMeshRenderer>();
+           // rend = avatar.GetComponentInChildren<Renderer>();
+        
         }
         public override void OnPoseUpdate(ITrackingResult solution)
         {
@@ -45,10 +52,16 @@ namespace TrackerPro
                             float weight = faceBlendshapes[i].categories[j].score * 100f; // Unity uses 0–100
 
                             int index = faceRenderer.sharedMesh.GetBlendShapeIndex(blendShapeName);
+
+
                             if (index >= 0)
                             {
                                 faceRenderer.SetBlendShapeWeight(index, weight);
+
+                                // Compare one or two blend shapes for emotion texture switching
+                              
                             }
+                          
                         }
                         var rotation = faceLandmarkResult.facialTransformationMatrixes[i].rotation;
                         rotation.x= -rotation.x;
@@ -56,6 +69,8 @@ namespace TrackerPro
                         headBone.rotation = Quaternion.Slerp(headBone.rotation, rotation, smoothness);
                         neckBone.rotation = Quaternion.Slerp(neckBone.rotation, rotation, smoothness);
                         chestBone.rotation = Quaternion.Slerp(chestBone.rotation, rotation, smoothness);
+
+                        
 
                         
                     }
@@ -71,6 +86,8 @@ namespace TrackerPro
             {
                 // Debug.Log("Tracking result is not a FaceLandmarkTrackingResult.");
             }
+
+             //rend.material.SetInt("_Emotion", _emotion); //Set emotion value to shader
         }
         public Vector3 GetScreenPoint(TrackerPro.Tasks.Components.Containers.NormalizedLandmark landmark)
         {
