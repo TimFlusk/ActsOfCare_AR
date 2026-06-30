@@ -13,11 +13,20 @@ public class EmotionTracking : MonoBehaviour
     private float CompareBoneHappyPosY;
     private float CompareBoneSadPosY;
     private int _emotion = 0;
+
+    [Range(0, 3)]
+    public int RightHand;
+
+     [Range(0, 3)]
+    public int LeftHand;
+
+    public GameObject _character;
+    private Animator m_Animator;
   
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        m_Animator = _character.GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -42,5 +51,8 @@ public class EmotionTracking : MonoBehaviour
         }
 
         this.GetComponent<Renderer>().material.SetFloat("_Emotion", _emotion);
+
+        m_Animator.SetInteger("RightHand", RightHand);
+        m_Animator.SetInteger("LeftHand", LeftHand);
     }
 }
