@@ -27,6 +27,8 @@ public class EmotionTracking : MonoBehaviour
     void Start()
     {
         m_Animator = _character.GetComponent<Animator>();
+        LeftHand = Random.Range(0, 4);
+        RightHand = Random.Range(0, 4);
     }
 
     // Update is called once per frame

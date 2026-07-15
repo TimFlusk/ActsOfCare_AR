@@ -144,7 +144,7 @@ AvatarMask:
   - m_Path: Superhero/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
     m_Weight: 0
   - m_Path: Superhero/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: Superhero/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
     m_Weight: 1
   - m_Path: Superhero/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1
