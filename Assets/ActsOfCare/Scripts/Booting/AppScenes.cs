@@ -3,18 +3,12 @@ namespace ActsOfCare.Booting
 	public static class AppScenes
 	{
 		public const string BOOT_SCENE = "Boot";
-#if UNITY_ANDROID
-		public const string POST_BOOT_SCENE = "SignUp";
-#elif UNITY_STANDALONE_OSX || UNITY_STANDALONE_WIN
-		public const string POST_BOOT_SCENE = "PosterWall";
-#endif
+		public const string POST_BOOT_SCENE = "ActsOfCarePortrait";
 		
 		private static string[] sceneNames = new[]
 		{
 			"Boot",
-			"SignUp",
-			"PosterMaking",
-			"PosterWall"
+			"ActsOfCarePortrait",
 		};
 		
 		public static bool IsValidScene(string sceneName)

@@ -1,5 +1,9 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
+using ActsOfCare.BodyTracking;
+using ActsOfCare.SignalingSystem;
+using ActsOfCare.TingTingAdditions;
 using TMPro;
 using TrackerPro.MetaHuman;
 using TrackerPro.Tasks.Vision.FaceLandmarker;
@@ -195,6 +199,8 @@ namespace TrackerPro
         }
         private void LateUpdate()
         {
+            SignalBodyTrackingUpdate();
+            
             if (!isTracking())
             {
                 return;
@@ -209,7 +215,43 @@ namespace TrackerPro
             if (!inPlace) Move();
             if (scaleMatch) FixScale();
 
+            
+            
         }
+
+        /******************************************************************
+         * TNG, Tim Flusk changes, 24 June 2026
+         * Addition of means of sending an event to
+         * signal BodyDetected or BodyLost
+         */
+
+        private bool wasTracking = false;
+        private SignalingService signalingService;
+
+        private void Awake()
+        {
+            if (!ServiceLocator.TryGetService(out signalingService))
+            {
+                Debug.LogError("Unable to get Signal Service");
+            }
+            signalingService?.PrepareSignal<BodyDetected>();
+            signalingService?.PrepareSignal<BodyLost>();
+        }
+        
+        private void SignalBodyTrackingUpdate()
+        {
+            var isTracking = this.isTracking();
+            if (isTracking && !wasTracking)
+            {
+                signalingService.ActivateSignal(BodyDetected.Create());
+            }
+            else if (!isTracking && wasTracking)
+            {
+                signalingService.ActivateSignal(BodyLost.Create());
+            }
+            wasTracking = isTracking;
+        }
+        
         private void SolvePoseTracking()
         {
             foreach (BoneMapper boneMapper in boneMappers)

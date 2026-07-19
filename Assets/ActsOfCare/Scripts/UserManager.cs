@@ -11,7 +11,7 @@ namespace ActsOfCare
 {
 	public class UserManager : IService
 	{
-		public const PayloadContext PAYLOAD_CONTEXT = PayloadContext.Poster;
+		public const PayloadContext PAYLOAD_CONTEXT = PayloadContext.Portrait;
 		public UserDetails CurrentUserDetails { get; private set; }
 
 		private const string FILE_NAME = "userdetails.json";
