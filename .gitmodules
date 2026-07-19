@@ -1,0 +1,3 @@
+[submodule "Assets/TNG_Framework"]
+	path = Assets/TNG_Framework
+	url = git@github.com:TimFlusk/TNG_Framework.git
