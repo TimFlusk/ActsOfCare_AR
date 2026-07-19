@@ -3,6 +3,11 @@ namespace ActsOfCare
 {
 	public class ActsOfCarePortraitBehaviour : TingTingGameBehaviour
 	{
+		protected SceneRepository sceneRepository;
 		
+		protected virtual void Start()
+		{
+			sceneRepository = SceneRepository.Instance;
+		}
 	}
 }

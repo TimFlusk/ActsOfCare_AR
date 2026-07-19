@@ -39,7 +39,7 @@ namespace ActsOfCare.TingTingAdditions
 			services
 				.AddService<UploadCoordinator>()
 				.AddService<UserManager>()
-				.AddService<LoaderService>()
+				//.AddService<LoaderService>()
 				.AddService<SignalingService>()
 				.AddService<ScreenshotService>();
 
